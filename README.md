@@ -17,16 +17,16 @@ The Calorie Tracker is a web application that allows users to:
 🔹 Dynamic UI with Tailwind CSS.  
 🔹 Custom hooks for efficient state management.  
 🔹 TypeScript for better reliability and maintainability.  
-🔹 Responsive design for different screen sizes.
+🔹 Responsive design for different screen sizes.  
 
 
 ## 🛠️ Technologies Used
 
 &nbsp;&nbsp;⚛️ **React.js with TypeScript**  
 &nbsp;&nbsp;🪝 **Custom Hook** for order management  
-&nbsp;&nbsp;🎨 **Tailwind CSS** for styling and responsiveness
-&nbsp;&nbsp;📊 **useMemo Hook** for optimized calculations
-&nbsp;&nbsp;🚀 **Netlify** for deployment  
+&nbsp;&nbsp;🎨 **Tailwind CSS** for styling and responsiveness  
+&nbsp;&nbsp;📊 **useMemo Hook** for optimized calculations  
+&nbsp;&nbsp;🚀 **Netlify** for deployment    
 
 
 ______________________________________________________________________________________________________________________________________________________________________________________________________________________
