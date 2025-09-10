@@ -1,6 +1,6 @@
 # **🔥 Calories Tracker (React + TypeScript)**
 
-[**🌐 Visit the Website**](https://trackyoucalorie.netlify.app/)
+[**🌐 Visit the Website**](https://calories-tracker-1.vercel.app/)
 
 The Calorie Tracker is a web application that allows users to:
 
